@@ -29,7 +29,7 @@ This reduction significantly improves the efficiency and performance of the mode
 | Modelo | Tipo de clasificación | Accuracy |
 | -------|-----------------------|----------|
 | Hard voting  | Hard voting | 90.30% |
-| Soft Voting | | Soft Voting | 89.94% |
+| Soft Voting | Soft Voting | 89.94% |
 | Support Vector Machin | Probabilística | 89.95% |
 |K-Nearest Neighbors| Probabilística | 88.39% |
 |Multi-layer Perceptron | Probabilística | 86.19% |
