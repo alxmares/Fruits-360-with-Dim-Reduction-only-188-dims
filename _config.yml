@@ -1,0 +1,4 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: "Fruit Classiffier with Dimensionality Reduction"
+description: "Fruits-360 Classifier with only 188 dimensions using PCA. Detecting Outliers with Isolation Forest."
+logo: /assets/Imagen3.png
