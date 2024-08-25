@@ -2,6 +2,9 @@
 layout: default
 ---
 
+This project leverages dimensionality reduction techniques to classify fruit images from the Fruits-360 dataset, reducing dimensions from 30,000 (100x100x3) to just 188 while maintaining high accuracy. 
+
+
 ## 🛠️ Tools and Technologies Used
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -13,9 +16,6 @@ layout: default
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 🌟 Project Overview
-
-This project leverages dimensionality reduction techniques to classify fruit images from the Fruits-360 dataset, reducing dimensions from 30,000 (100x100x3) to just 188 while maintaining high accuracy. 
 
 ## 🧠 Algorithms Used
 
