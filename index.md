@@ -59,3 +59,11 @@ To tackle the challenge of high-dimensional data, **Principal Component Analysis
 
 ## **Anomaly detection using Isolation Forest**
 ![](/assets/outlier1.jpg)
+
+* * *
+
+## 🚀 **Explore More Projects!**
+
+### [📚 Check out all my projects on GitHub Pages](https://alxmares.github.io)
+
+* * *
